@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineering Undergraduate | Full-Stack Developer
 
-I'm a Software Engineering undergraduate at the University of Colombo, Sri Lanka, interested in building practical software solutions and modern web applications.
+I'm a Software Engineering undergraduate at the Cinec campus , Sri Lanka, interested in building practical software solutions and modern web applications.
 
 I enjoy learning new technologies, solving problems through code, and working on real-world projects with a focus on clean, functional, and user-friendly applications.
 
